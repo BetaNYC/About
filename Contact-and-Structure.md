@@ -1,6 +1,6 @@
 (Active) Organizers:
-** Noel Hidalgo, BetaNYC Co-Founder, noel@codeforamerica.org
-** Chris Whong, Co-Captian, chris.m.whong@gmail.com
+* Noel Hidalgo, BetaNYC Co-Founder, noel@codeforamerica.org
+* Chris Whong, Co-Captian, chris.m.whong@gmail.com
 
 Developer Co-Captian
 Ashley Williams, ashley.williams@codeforamerica.org
