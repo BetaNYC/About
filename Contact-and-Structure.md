@@ -9,7 +9,7 @@
 * Facebook Group <https://www.facebook.com/groups/236172233199995/>
 
 **(Active) Organizers:**
-* Noel Hidalgo, BetaNYC Co-Founder, noel@codeforamerica.org
+* Noel Hidalgo, Captian & BetaNYC Co-Founder, noel@codeforamerica.org
 * Chris Whong, Co-Captian, chris.m.whong@gmail.com
 
 **Developer Co-Captian**
@@ -22,7 +22,7 @@
 * Hailey Cooperrider
 * Phil Ashlock
 
-**Mailing Address**
+**Mailing Address**  
 Blue Ridge Foundation  
 c/o Code For America  
 150 Court St, 2nd Floor  
