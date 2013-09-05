@@ -1,12 +1,12 @@
 **BetaNYC Online**
-* (Web)[http://betanyc.tumblr.com]
-* (Discussion Group)[http://www.meetup.com/betanyc/messages/archive/]
-* (Meetup)[http://www.meetup.com/betanyc/]
-* (Ideas)[http://betanyc.ideascale.com]
-* (Code)[http://github.com/betanyc]
-* (Twitter)[http://twitter.com/betaNYC]
-* (Facebook Page)[http://facebook.com/betaNYC]
-* (Facebook Group)[https://www.facebook.com/groups/236172233199995/]
+* Blog <http://betanyc.tumblr.com>
+* Discussion Group <http://www.meetup.com/betanyc/messages/archive/>
+* Meetup <http://www.meetup.com/betanyc/>
+* Ideas <http://betanyc.ideascale.com>
+* Code <http://github.com/betanyc>
+* Twitter <http://twitter.com/betaNYC>
+* Facebook Page <http://facebook.com/betaNYC>
+* Facebook Group <https://www.facebook.com/groups/236172233199995/>
 
 **(Active) Organizers:**
 * Noel Hidalgo, BetaNYC Co-Founder, noel@codeforamerica.org
