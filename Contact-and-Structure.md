@@ -12,9 +12,6 @@
 * Noel Hidalgo, Captian & BetaNYC Co-Founder, noel@codeforamerica.org
 * Chris Whong, Co-Captian, chris.m.whong@gmail.com
 
-**Developer Co-Captian**
-* Ashley Williams, ashley.williams@codeforamerica.org
-
 **Contact BetaNYC's Organizers:**
 * BetaNYC-organizers@codeforamerica.org
 
