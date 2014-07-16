@@ -20,7 +20,7 @@ BetaNYC reserves the right to ask anyone in violation of these policies not to p
 
 BetaNYC’s Code of Conduct is an adaptation of [Code for America’s Community Code of Conduct policy](https://github.com/codeforamerica/codeofconduct). BetaNYC agrees to review this policy annually and have it voted on by members in good standing.
 
----
+
 
 ## BetaNYC’s Anti-Harassment Policy
 
