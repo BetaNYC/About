@@ -15,3 +15,6 @@ Our activities and events should foster meaningful collaboration between partici
 BetaNYC reserves the right to ask anyone in violation of these policies not to participate in BetaNYC’s events or network of activities. If you have any other concerns or would like to address an issue, please contact Noel Hidalgo, BetaNYC’s Executive Director, at noel@betaNYC.us or email the membership committee at members@betaNYC.us.
 
 BetaNYC’s Code of Conduct is an adaptation of [Code for America’s Community Code of Conduct policy](https://github.com/codeforamerica/codeofconduct). BetaNYC agrees to review this policy annually and have it voted on by members in good standing.
+
+---
+To comment on this document, please perform a pull request or use this [Google Drive Document](https://docs.google.com/document/d/19Q5rNU_dA_OyJqs8l059343N7hRqIicmjekJhZaNZEI/edit?usp=sharing).
