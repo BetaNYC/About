@@ -1,6 +1,5 @@
 # BetaNYC’s Code of Conduct and Anti-Harassment Policy
 
----
 
 ## BetaNYC's Code of Conduct
 
@@ -28,8 +27,6 @@ BetaNYC’s Code of Conduct is an adaptation of [Code for America’s Community 
 _This anti-harassment policy is based on [Code for America’s Anti-Harassment policy](https://github.com/codeforamerica/codeofconduct) and the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers._
 
 _This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work._
-
----
 
 All BetaNYC events, workplaces, staff, presenters, and participants are held to the following anti-harassment policy.
 
@@ -62,5 +59,6 @@ I am writing because of harassment at a BetaNYC event, (NAME, PLACE, DATE OF EVE
 
 You can reach me at (CONTACT INFO). Thank you.
 
----
-To comment on this document, please fork and make pull request or use this [Google Drive Document](https://docs.google.com/document/d/19Q5rNU_dA_OyJqs8l059343N7hRqIicmjekJhZaNZEI/edit?usp=sharing).
+
+## Improve these words
+This document is reviewed annually. To comment or suggest an improvement, please fork and make pull request, use this [Google Drive Document](https://docs.google.com/document/d/19Q5rNU_dA_OyJqs8l059343N7hRqIicmjekJhZaNZEI/edit?usp=sharing), or give private feedback at < membership@betanyc.us >.
