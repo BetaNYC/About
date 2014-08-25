@@ -1,0 +1,16 @@
+{
+    "status": "Beta",
+    "thumbnailUrl": "https://raw.githubusercontent.com/BetaNYC/What-is-BetaNYC/master/BetaNYC%20Logos/BetaNYC_short_blue_on_white_empire.png",
+     "bornAt": "BetaNYC Leadership nights",
+    "geography": "NYC",
+    "politicalEntity":"",
+    "type":"Information Repository",
+    "needs": [
+        {"need": "Content Editor"},
+    ],
+    "categories": [
+        {"category": "Leadership"},
+        {"category": "Graphics"}
+        {"category": "Values"}
+    ]
+}
