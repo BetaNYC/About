@@ -19,3 +19,4 @@ Primary Source: [Leah Bannon's github](https://github.com/leahbannon/old-leah-we
 * [BetaNYC's Project Template](https://docs.google.com/a/beta.nyc/document/d/1iPr-UFBaw9MYdFl2uUwtvOxfXsCogqttoCZTx07mfnM/edit#)
 * [Open Oakland's "useful projects" powerpoint](http://www.google.com/url?q=http%3A%2F%2Fwww.slideshare.net%2Fevanwolf%2Fdraft-openoakland-product-selection&sa=D&sntz=1&usg=AFQjCNFHcn9CTIpXZ0RBb5i6yKK6RGGk4w)
 * [Tools for Disciplined Explorers](https://drive.google.com/file/d/0B98QOZfGax93MmVRQWZ0RldyVDQ/view?usp=sharing)
+* [UK Government's Government Digital Service Design Principles](https://www.gov.uk/design-principles)
