@@ -6,11 +6,11 @@
     "politicalEntity":"BetaNYC",
     "type":"Information Repository",
     "needs": [
-        {"need": "Content Editor"},
+        {"need": "Content Editor"}
     ],
     "categories": [
         {"category": "Leadership"},
-        {"category": "Graphics"}
-        {"category": "Values"};
+        {"category": "Graphics"},
+        {"category": "Values"}
     ]
 }
