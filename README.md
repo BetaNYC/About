@@ -1,6 +1,12 @@
 
+## BetaNYC’s Mission:
+
+BetaNYC is a civic organization dedicated to improving lives in New York through civic design, technology, and data.
+
+We envision an informed and empowered public that can leverage civic design, technology, and data to hold government accountable, and improve their economic opportunity.
+
+
 ## About BetaNYC
-=====
 
 BetaNYC is a civic organization dedicated to improving lives in New York through civic design, technology, and data. 
 
@@ -22,6 +28,7 @@ BetaNYC envisions an informed and empowered public that can leverage civic desig
 * We **explore** a world of possibilities by providing a safe space for individuals and government to collaborate and organize an open community for all to improve the city.
 
 ## We envision a City where:
+
 * individuals are empowered with knowledge and tools to address their community’s problems;
 * individuals and communities actively participate in the local governance process;
 * community members are seen as trusted collaborators on impactful solutions;
@@ -44,18 +51,21 @@ The **Freedom to Innovate** is central to the advancement of communities. Innova
 The **Freedom to Collaborate** stands for the ideal that participatory democracy is not centralized. Regardless of status and interface, we must have the ability to engage with our government, wherever and whenever. We must have the power to effect change and be a government by the people, for the people, for the 21st Century.
 
 
-## Programs
+## Active Programs
 
-A **Beta Academy** that combines the best civic design, technology, and open data practices into a practical curriculum for passionate residents, community board members, and policy makers.
+The **NYC Civic Innovation Fellowship** program that works with Borough President Offices, City Council Members, and Community Boards to improve engagement and digital inclusion.
 
-A **fellowship** program that works with Borough President Offices, City Council Members, and Community Boards to improve engagement and digital inclusion.
-
-**BetaLab** - a digital services agency dedicated to building open technology, hosting civic engagement events, and rethinking the current procurement process.
+NYC’s **BetaLab** a digital services agency dedicated to building open technology, hosting civic engagement events, and rethinking the current procurement process.
 
 A thriving **Brigade** of community members who provide verified, skilled community service. 
 
+## Developing Programs
+
+A **Academy** that combines the best civic design, technology, and open data practices into a practical curriculum for passionate residents, community board members, and policy makers.
+
 
 ## About 
+
 **BetaNYC Online**
 * BetaNYC Landing Page < http://beta.nyc/ >
 * Blog < http://betanyc.tumblr.com >
