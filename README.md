@@ -100,7 +100,7 @@ Noel Hidalgo, Executive Director, Co-Founder; noel@beta.nyc
 * John Krauss
 * Kara Chesal
 * Ken Chan
-* Lauren Brennée
+* Lauren Rennée
 * Lucio Tolentino
 * Martin Roeck
 * Matt Stempeck
