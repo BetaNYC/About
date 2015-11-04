@@ -87,17 +87,25 @@ A **Academy** that combines the best civic design, technology, and open data pra
 * BikeNYC and CitiBike NYC Hackers Discussion List <http://bit.ly/bikenyc-hacker>
 
 **Leadership:**
-* Noel Hidalgo, Executive Director, Co-Founder; noel@beta.nyc
+Noel Hidalgo, Executive Director, Co-Founder; noel@beta.nyc
 
 **Community Organizers**
-* Benjamin Arancibia
+* Amal Sudama
+* Ben Arancibia
+* Dirk Kelly
 * Emily Goldman
 * Hayley Richardson
+* Jim Shields
+* Joel Natividad
+* John Krauss
 * Kara Chesal
-* Lauren Rennee
+* Ken Chan
+* Lauren Brennée
 * Lucio Tolentino
+* Martin Roeck
+* Matt Stempeck
 * Terrance Beckett
-* Volkan Unsal
+* Tim McDermott
 * Yasi Razvan
 
 **Emeritus Co-founders & Organizers:**
@@ -105,6 +113,7 @@ A **Academy** that combines the best civic design, technology, and open data pra
 * Phil Ashlock, Co-founders
 * Chris Whong, former organizer
 * Ariel Kennan, former organizer
+* Maximilian Heimstädt, former organizer
 
 
 **Board of Advisors**
