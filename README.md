@@ -94,6 +94,7 @@ Noel Hidalgo, Executive Director, Co-Founder; noel@beta.nyc
 * Ben Arancibia
 * Dirk Kelly
 * Emily Goldman
+* Farheen Malik
 * Hayley Richardson
 * Jim Shields
 * Joel Natividad
