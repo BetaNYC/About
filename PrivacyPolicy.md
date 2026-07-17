@@ -1,100 +1,101 @@
 # BetaNYC’s Privacy Policy
 
-Last Revised: 4 Feb 2025
-
-This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by BetaNYC. (“Company”, “we” or “us”) with respect to your use of the web site located at [www.beta.nyc](https://www.beta.nyc/) or any subdomain of beta.nyc or betanyc.us or betanyc.org (the “Site”) so you can make an informed decision about using the Site and the features and service offered through the Site (the “Services”). We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
 
 ## Who we are
 
-Our website address is: https://www.beta.nyc. BetaNYC is a civic organization dedicated to improving lives in New York through civic design, technology, and data. We help New Yorkers access information and use technology.
+BetaNYC is a civic organization dedicated to improving lives in New York through civic design, technology, and data. We ask government to be open about how it works, and we hold our own websites to the same standard. This page says plainly what we collect, why, and what choices you have.
 
-## Comments
+## What this policy covers
 
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+This policy applies to www.beta.nyc, every subdomain of beta.nyc, betanyc.us, and betanyc.org. It also covers the newsletter signups, event registrations, and donations we run through outside services, the platforms where our community gathers, and the tools we keep our records in. Those services and platforms have their own privacy policies, and we link to them below.
 
-An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+## What we collect and why
+
+### Visiting our sites
+
+We use Google Analytics, loaded through Google Tag Manager, to see how the site is used: which pages people visit, the approximate location a visit comes from (based on IP address), and the kind of device and browser in use. We read these reports in aggregate to decide what to improve. [Google's privacy policy](https://policies.google.com/privacy) covers how Google handles this data.
+
+### Leaving a comment
+
+If you leave a comment, we collect what you type into the comment form, plus your IP address and browser user-agent string to help detect spam, and comments may be checked by an automated spam-detection service. A hashed version of your email address, not the address itself, may be sent to Gravatar, a profile-picture service run by Automattic, to check whether you have a profile there; [Automattic's privacy policy](https://automattic.com/privacy/) covers that service. If you opt in, cookies will remember your name, email, and website so you do not have to retype them next time. Comments and their metadata stay on the site indefinitely, so we can recognize your follow-up comments and approve them instead of holding them in moderation.
+
+### Subscribing to the newsletter
+
+When you sign up for our weekly newsletter, your name and email address go to Mailchimp, the service that delivers it, under [Mailchimp's privacy policy](https://mailchimp.com/legal/privacy/) (Mailchimp is an Intuit company, so that link opens Intuit's privacy statement). Every issue includes an unsubscribe link.
+
+### Registering for an event
+
+We use Eventbrite and Ti.to for event registration. Your name, email address, and whatever else the ticket form asks for are collected on those platforms under [Eventbrite's privacy policy](https://www.eventbrite.com/privacypolicy) and [Ti.to's privacy policy](https://ti.to/privacy). Online events and office hours run on Zoom; joining one is governed by [Zoom's privacy statement](https://www.zoom.com/en/trust/privacy/privacy-statement/).
+
+### Donating
+
+Donations run through Donorbox, a service embedded on our donate page; PayPal appears as a payment option inside it. Your payment details go directly to Donorbox and its payment processors, under [Donorbox's privacy policy](https://donorbox.org/privacy). We never receive or store full card numbers. We keep donation records for as long as accounting and tax rules require.
+
+### Emailing us
+
+If you email us, whether privacy@beta.nyc or a staff member directly, we receive whatever you choose to include in your message.
+
+## Where our community gathers
+
+Our community meets on platforms we do not run. Joining one means that platform processes your data under its own policy; each platform name below links to that policy.
+
+- [Slack](https://slack.com/trust/privacy/privacy-policy) (slack.beta.nyc), which we are retiring in favor of Discord
+- [Discord](https://discord.com/privacy), home of our BetaBuilders community
+- [Meetup](https://www.meetup.com/privacy/) (meetup.com/betanyc)
+- [GitHub](https://github.com/site/privacy) (github.com/BetaNYC), where our public repositories, issues, and contributions live
+- [Reddit](https://www.reddit.com/policies/privacy-policy) (r/PublicInterestNYC)
+- [YouTube](https://policies.google.com/privacy), our video channel, which runs under Google's privacy policy
+
+## Our social media accounts
+
+We post on Bluesky, LinkedIn, Facebook, Instagram, Threads, and Mastodon (@betanyc@urbanists.social). We review engagement on those posts (likes, shares, replies, and follows) to understand what interests our community. We see only what each platform shows any account holder, and that activity is governed by each platform's own privacy policy.
+
+## The tools we work in
+
+Behind the scenes, we work in Google Workspace (email, documents, and forms) and keep contact, event, and program records in Airtable. Both process that information for us under their policies: [Google's privacy policy](https://policies.google.com/privacy) and [Airtable's privacy policy](https://www.airtable.com/company/privacy).
+
+## What we don't do
+
+- We do not run ads, and no advertising network operates on our sites.
+- We do not sell or rent personal information, to anyone, for any purpose.
+- We do not track you beyond what is described on this page.
+- We do not use automated systems to make significant decisions about people. The automated spam screening on comments, described above, is as close as we come.
+- Beyond the services named above, we do not share personal information with anyone unless the law requires it.
+
+If we ever receive a government or legal demand for personal information, we will disclose only what the law actually requires, and we will tell the affected person unless the law forbids us from doing so.
 
 ## Cookies
 
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+Our sites set a small number of cookies: the cookies Google Analytics uses to tell returning visitors apart, and the optional cookies that remember your details when you comment. Embedded content from other sites may set its own, covered next. You can block or delete cookies in your browser settings.
 
-If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+## Embedded content from other sites
 
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+Pages here sometimes embed videos, maps, social media posts, and similar content from other websites. An embed behaves as if you had visited the other site directly: it may set cookies and track your interaction with it, under that site's own privacy policy.
 
-If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+## How long we keep things
 
-## Embedded content from other websites
+- Comments and their metadata: indefinitely.
+- Donation records: as long as accounting and tax rules require.
+- The newsletter list: until you unsubscribe. Unsubscribed addresses stay on a do-not-mail record so we cannot mail you again by mistake, unless you ask us to delete you entirely (see "Your rights").
+- Ordinary email: no fixed schedule; we keep correspondence while it is relevant to the work.
+- Contact, event, and program records: no fixed schedule; we keep them while they are relevant to the work.
 
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+## Your rights
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+You can ask to see the personal information we hold about you, correct it, receive a copy to take elsewhere, or have it deleted. Email privacy@beta.nyc and we will respond. One caveat, stated plainly: records we are required to keep for accounting, legal, or security reasons, such as donation records, stay on file even when a deletion request covers everything else. If that applies to your request, we will tell you.
 
-## How long we retain your data
+## Children's privacy
 
-If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+Our sites are written for a general audience. We do not knowingly collect personal information from children under 13.
 
-For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+## Changes to this policy
 
-## What rights you have over your data
+When we change this policy, we will post the new version on this page, update the "Last revised" date below, and add a short note of what changed significantly. A change in what we collect will appear here before it appears in practice.
 
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+## Questions
 
-## Where your data is sent
+Questions, corrections, and requests about your information go to privacy@beta.nyc. A person reads that inbox. If the answer you get does not settle the matter, you can raise it with our executive director, Noel Hidalgo, through the same address.
 
-Visitor comments may be checked through an automated spam detection service.
+This policy is adapted in part from [NTEN's Sample Privacy Policy](https://word.nten.org/wp-content/uploads/2021/10/Sample-Privacy-Policy.pdf) (2021), with thanks. We license it under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/): if your organization needs a privacy policy, you are welcome to copy this one, adapt it, and share what works.
 
-## WHAT IS PERSONAL INFORMATION?
-
-As used herein, the term “personal information” means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or other account number), and information about that individual’s location or activities, such as information about his or her use of the Site, when directly linked to personally identifiable information. A user name may be personal information if it includes personally identifying information such as a first and last name. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. Personal information does not include “aggregate” information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users’ needs so that we can better consider new features or otherwise tailor our Site. This policy in no way restricts or limits our collection and use of aggregate information.
-
-## WHAT PERSONAL INFORMATION DO WE COLLECT?
-
-Personal information may be collected in a number of ways when you visit our Site or use our Services. We may collect certain information that you voluntarily provide to us which may contain personal information. For example, we may collect your name, address, email address, user name and other contact, demographic information when you register and set up an account or contact us by e-mail or other means for any reason. Personal and demographic information may also be collected if you provide such information in connection with creating a dataset, user profile or group, leaving comments, posting content, sending an email or message to another user or participating in any interactive forums or features on the site. Note that a dataset consists of “data”, which represents the information within your dataset, and a “data structure”, which represents the way your dataset is organized such as column names and types. If you sign up for a premium service, we may also collect credit card or other payment information. In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities on the Site. When you use the Site, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
-
-## HOW ARE COOKIES USED ON THE SITE?
-
-We may automatically collect certain information through the use of “cookies.” Cookies are small data files that are stored on a user’s hard drive at the request of a Web site to enable the site to recognize users who have previously visited them and retain certain information such as customer preferences and history. If we combine cookies with or link them to any of the personally identifying information, we would treat this information as personal information. We may also use third parties to serve ads on the Site. These third parties may place cookies, clear gifs or other devices on your computer to collect information, and information provided by these devices may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions or help screen to learn about these functions. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Site and the Service may not function properly. For example, you may not be able to sign in and may not be able to access certain Site features or services.
-
-## HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT?
-
-In general, we use the personal information we collect to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Site, and for the purpose for which the information was provided. In addition, we may analyze the data and data structures you post on the Site and your other activities on the Site in order to tailor the BetaNYC services and advertising to your needs and interests. The following are some examples of how we may use the information we collect:
-
-- to send you a welcoming email and to contact you about your use of the Site, to provide other services, products or information you request and to complete any transactions in connection therewith;
-- to respond to your emails, submissions, comments, requests or complaints;
-- to customize site content, features and advertising
-- to provide online editing and publishing services to you
-- to request feedback, analyze site use, and enable us to develop, customize and improve the Site and our publications, products and services;
-- to contact you about our services, products, activities, special events or offers and for other marketing, informational, product development and promotional purposes;
-- to notify contest winners; and
-- for the specific purpose for which the information was provided.
-
-Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information.
-
-## HOW IS YOUR PERSONAL INFORMATION SHARED WITH THIRD PARTIES?
-
-We will not share the personal information we collect from you through this Site with third parties except as described in this Privacy Policy, as it may be revised from time to time. We may share personal information with vendors, consultants and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Site, the Services or our business. For example, we may hire third parties to analyze data and provide marketing assistance on our behalf. Such Service Providers are only permitted to use such information for the purpose for which it was provided to them. In some cases, the Service Provider may be directly collecting the information from you on our behalf. We may also share personal information with other third parties when you give us your consent to do so. We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to these Service Providers or other third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. Note that nothing herein restricts the sharing of aggregate information, which may be shared with third parties without your consent. Third parties may also have access to personal information on the Site when you provide it to them or post it on public areas of the Site (see below).
-
-We may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of Company, our users, our employees or the public, including without limitation to protect Company or our users from fraudulent, abusive, inappropriate or unlawful use of our Site. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of Company.
-
-## WHO CAN SEE THE PERSONAL INFORMATION I POST ON THE SITE?
-
-You understand that when you use the Site, information you post in your datasets or in your profile, forums, groups, and other interactive areas of the Site, as well as any information you share with individuals through the Site, will be available to us, to other users and in some cases may be publicly available, depending on the applicable privacy settings. We recommend you be cautious about giving out personal information to others or sharing personal information on the Site. You can choose various privacy settings with respect to your datasets, including the following: 1) the data and data structure are public and other users can modify the dataset, 2) the data and data structure are public but other users cannot modify the dataset (this is the default), 3) the data is private but the data structure is public, and 4) the data and data structure are private. If data or datasets are public, then they can be viewed by anyone. If you designate data and/or datasets as private, then the only users who are permitted to view them are those to whom you grant access. Please be aware, however, that although we endeavor to use commercially reasonable efforts to implement these restrictions and honor these designations, no system or security measure is perfect or impenetrable, and therefore, we cannot guarantee that data and personal information will not be available to others, even if it is designated as private. We are not responsible for unauthorized access to your data or personal information or for the actions of any third parties with whom you share personal information or who have obtained your personal information from the Site.
-
-## WHAT STEPS DO WE TAKE TO PROTECT PERSONAL INFORMATION ONLINE?
-
-We have endeavored to put into place reasonable security measures in an effort to protect personal information while it is under our control. Your account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web site by any person using your password. Please advise us immediately if you believe your password has been misused.
-
-## WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR INFORMATION?
-
-If we send any promotional or marketing emails, you may “opt out” of receiving such promotional and marketing purposes by following the directions in the email or by emailing us at [privacy@beta.nyc](mailto:privacy@beta.nyc). However, this shall not affect our ability to send you service and account related emails to use your personal information as otherwise described in this Policy.
-
-## LINKS TO OTHER WEB SITES
-
-Our web site may contain links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from our web site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
-
-## HOW YOU CAN CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION
-
-If you have any questions or comments about this Policy or the practices relating to the Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [privacy@beta.nyc](mailto:privacy@beta.nyc), and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate to the extent possible.
-
-This document is forked from [Socrata’s Privacy Policy](http://www.socrata.com/privacy/).
+Last revised: July 17, 2026
