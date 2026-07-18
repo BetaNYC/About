@@ -1,9 +1,9 @@
-# BetaNYC's Promotion and Hosting Polcy
+# BetaNYC's Promotion and Hosting Policy
 
 This document outlines what type of apps, hacks, and tools (for this document known as tools) BetaNYC will promote, feature, and/or host. 
 
 ## Promotion on BetaNYC's projects page 
- * All tools must be not perform illegal activity and must conform to [BetaNYC's Anti-Harassment Policy](https://github.com/BetaNYC/What-is-BetaNYC/blob/master/Code-of-Conduct.md). We suggest tools conform to [BetaNYC's Code of Conduct](https://github.com/BetaNYC/What-is-BetaNYC/blob/master/Code-of-Conduct.md).
+ * All tools must be not perform illegal activity and must conform to [BetaNYC's Anti-Harassment Policy](code-of-conduct.md). We suggest tools conform to [BetaNYC's Code of Conduct](code-of-conduct.md).
  * All promoted tools *need* to have an up-to-date civic.json file.
  * All promoted tools *need* have a GitHub repo with an active issues page. This URL should be featured on the tools' about page. _Note: you do not need to share your code, but you do need to use github_.
  * Projects *should* have an about page or github readme file that clearly names a project maintainer, the maintainer's email address, and that the project is supported by BetaNYC, with a link to [BetaNYC's webpage](http://www.beta.nyc).
