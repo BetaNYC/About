@@ -11,12 +11,17 @@ Where a policy is published on our website, that page is the canonical version f
 | Privacy Policy | [privacy-policy.md](privacy-policy.md) | Active (v2.0, published 17 July 2026) | https://www.beta.nyc/privacy-policy/ |
 | Code of Conduct & Anti-Harassment Policy | [code-of-conduct.md](code-of-conduct.md) | Active (v2.0, published 17 July 2026) | https://www.beta.nyc/code-of-conduct-anti-harassment-policy/ |
 | AI Policy | [ai-policy.md](ai-policy.md) | Active (v1.0, last reviewed 29 May 2026) | https://beta.nyc/about/ai-policy |
-| Terms of Service | [terms-of-service.md](terms-of-service.md) | Legacy (2015) — under review | — |
-| Promotion & Hosting Policy | [promotion-and-hosting-policy.md](promotion-and-hosting-policy.md) | Legacy (2015) — under review | — |
 
-Prior versions of the Code of Conduct & Anti-Harassment Policy are kept in [archive/](archive/).
+## Retired
 
-The **Terms of Service** and **Promotion & Hosting Policy** date to 2015 and are retained for the record. They reference services and processes that have since changed and are pending a content review; they are not a current statement of BetaNYC's practices.
+These documents are no longer in force. They are kept in [archive/](archive/) for the historical record, each with a notice explaining what it governed and why it was retired.
+
+| Policy | File | Retired | Why |
+|---|---|---|---|
+| Terms of Service (2015) | [archive/2015-01-29-terms-of-service.md](archive/2015-01-29-terms-of-service.md) | 18 July 2026 | Governed BetaNYC-operated services with user accounts and uploaded content (community data portal, projects page, discussion forum). BetaNYC no longer operates any of them. |
+| Promotion & Hosting Policy (2015) | [archive/2015-02-06-promotion-and-hosting-policy.md](archive/2015-02-06-promotion-and-hosting-policy.md) | 18 July 2026 | Governed which community tools BetaNYC promoted and hosted. That program no longer runs. |
+
+Prior versions of the Code of Conduct & Anti-Harassment Policy are also kept in [archive/](archive/).
 
 ## Licensing and reuse
 

@@ -1,5 +1,9 @@
 ## BetaNYC’s Terms of Service
 
+> **Retired 18 July 2026.** This Terms of Service was adopted in January 2015 (forked from OpenData.Socrata.com) to govern BetaNYC-operated services that hosted user accounts and user-uploaded content: the community data portal, the community projects page, and the discussion forum. BetaNYC no longer operates any of those services, so this document governs nothing. It is retained here for the historical record and is **not** a current statement of BetaNYC's terms. Current policies: [../](../).
+
+---
+
 Use of BetaNYC Web Properties
 
 PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THIS SERVICE.

@@ -55,8 +55,8 @@ BetaNYC's organizational policies are tracked in [policies/](policies/):
 - [Privacy Policy](policies/privacy-policy.md)
 - [Code of Conduct & Anti-Harassment Policy](policies/code-of-conduct.md)
 - [AI Policy](policies/ai-policy.md)
-- [Terms of Service](policies/terms-of-service.md) *(legacy, under review)*
-- [Promotion & Hosting Policy](policies/promotion-and-hosting-policy.md) *(legacy, under review)*
+
+Retired policies are kept in [policies/archive/](policies/archive/) for the historical record.
 
 ## Also in this repository
 
