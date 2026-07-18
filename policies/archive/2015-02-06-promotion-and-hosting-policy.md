@@ -1,5 +1,9 @@
 # BetaNYC's Promotion and Hosting Policy
 
+> **Retired 18 July 2026.** This policy was adopted in February 2015 to govern which community tools BetaNYC would promote on its projects page and host on third-party infrastructure. That program is no longer running, and the services it references have since been retired or handed off. It is retained here for the historical record and is **not** a current statement of BetaNYC practice. Current policies: [../](../).
+
+---
+
 This document outlines what type of apps, hacks, and tools (for this document known as tools) BetaNYC will promote, feature, and/or host. 
 
 ## Promotion on BetaNYC's projects page 
