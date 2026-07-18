@@ -1,170 +1,88 @@
-
-## BetaNYC’s Mission:
+# About BetaNYC
 
 BetaNYC is a civic organization dedicated to improving lives in New York through civic design, technology, and data.
 
-We envision an informed and empowered public that can leverage civic design, technology, and data to hold government accountable, and improve their economic opportunity.
+This repository is BetaNYC's public "about" home: an overview of who we are, what we do, and where our organizational policies live. It is meant to be readable, versioned, and reusable.
 
+- **Website:** https://www.beta.nyc
+- **Policies:** [policies/](policies/)
+- **Get involved:** [Join our Slack](https://slack.beta.nyc) · [Events](https://www.beta.nyc/events/) · [Donate](https://beta.nyc/donate)
 
-## About BetaNYC
+## Who we are
 
-BetaNYC is a civic organization dedicated to improving lives in New York through civic design, technology, and data. 
+Founded in 2008 as a meetup to discuss open government in New York City, BetaNYC has grown into a local leader and national partner in civic technology, open data, and open government.
 
-Founded in 2008 as a “meetup” to discuss open government in NYC, we has evolved to be a key local leader and national partner in civic technology, open data, and open government.
+We help New Yorkers access and use public data, and we advocate for public systems that are open, accountable, and built for everyone. Our work supports residents, community organizations, and government in using data, design, and technology to make public services more accessible and effective.
 
-Our work empowers individuals and local communities to build a civically‐engaged technology ecosystem and provide for an honest and inclusive government. We want New York’s governments to work for the people, by the people, for the 21st century. 
+We envision an informed and empowered public that can use civic design, technology, and data to participate in the political process and hold government accountable.
 
-BetaNYC demystifies design, technology, and data to the point where anyone can use it, create it, and participate in the decision making process.
+## What we believe
 
+BetaNYC's work is grounded in four digital freedoms, first articulated in the [People's Roadmap to a Digital New York City](http://nycroadmap.us/) (2013). They extend President Roosevelt's four universal human freedoms into the 21st century.
 
-## Purpose:
+**Freedom to Connect.** Access to affordable, high-speed internet is a prerequisite for full participation in civic and economic life. Connectivity is infrastructure, as essential as clean water or electricity, and must be available to every New Yorker regardless of neighborhood, income, or background.
 
-Improving lives through design, technology, and data. 
+**Freedom to Learn.** Access to knowledge, data, tools, and learning opportunities, regardless of age, language, faith, gender identity, or class, is essential to an empowered citizenry. Education is a lifelong process, and digital literacy is its 21st century foundation.
 
-BetaNYC envisions an informed and empowered public that can leverage civic design, technology, and data to participate in the political process, and hold government accountable.
+**Freedom to Innovate.** New York's strength comes from its people. Laws, policies, and institutions should protect individuals while creating the conditions for entrepreneurship, creativity, and community-driven progress to flourish across every neighborhood and demographic.
 
-* We **empower** the public with tools, education, and data.
-* We **demystify** government, technology, design, and data with the goal of improving access to services and information.
-* We **explore** a world of possibilities by providing a safe space for individuals and government to collaborate and organize an open community for all to improve the city.
+**Freedom to Collaborate.** Participatory democracy requires the ability to engage with government and with each other, wherever and whenever. Every New Yorker must have the power to be heard, to organize, and to shape the city they live in.
 
-## We envision a City where:
+## What we do
 
-* individuals are empowered with knowledge and tools to address their community’s problems;
-* individuals and communities actively participate in the local governance process;
-* community members are seen as trusted collaborators on impactful solutions;
-* community based organizations effectively use tools to improve the lives of their clients;
-* elected representatives are capable of proactively and effectively communicating with their constituents;
-government and social services are centered around the constituent;
-* government collaborates with community to explore insights and experiment at civic innovation events (i.e. hackathons, datapaloozas, and design camps);
-* education, fellowship, and community are combined to provide a ladder of growth, equity, sustainability, and resilience;
-* the future is written in collaboration, not for.
+- **[Open Data Week](https://www.beta.nyc/open-data-week/)** — our annual festival of events celebrating and interrogating New York City's open data.
+- **[NYC School of Data](https://www.beta.nyc/school-of-data/)** — an annual community conference on open data, civic technology, and service design.
+- **[CityCamp NYC](https://www.beta.nyc/citycamp-nyc/)** — an annual unconference bringing together residents, technologists, and government.
+- **[BetaBagels](https://www.beta.nyc/betabagels/)** — regular community gatherings, open to everyone.
+- **[Civic Innovation Lab](https://www.beta.nyc/programs/civic-innovation-lab/)** — where we apply data analysis, geospatial tools, and civic design to problems brought to us by nonprofits, community boards, and city agencies.
+- **[Civic Innovation Fellowship](https://www.beta.nyc/workforce-development/)** — since 2015, training CUNY students in public interest technology and open data.
+- **[Mapping for Equity](https://www.beta.nyc/mapping-for-equity/)** — mapping and data work in service of community equity.
 
+See all of our work at [beta.nyc](https://www.beta.nyc).
 
-## Values
+## Get involved
 
-The **Freedom to Connect** represents the idea that access to high-speed bi-directional internet is a prerequisite to full civic participation. Economic growth, job creation, educational opportunities, public safety, digital government services, and access to affordable health care depend on affordable and fast connectivity. In 1932, US President Franklin D. Roosevelt emphasized the right of communities to provide their own electricity. Today, communities need infrastructure for high speed universal access.
+- **Join the community** on [Slack](https://slack.beta.nyc).
+- **Come to an event** on our [events calendar](https://www.beta.nyc/events/) or [Meetup](https://www.meetup.com/betanyc/).
+- **Read the newsletter** — "This week in NYC's #CivicTech." Subscribe at [beta.nyc/newsletter](https://beta.nyc/newsletter).
+- **Build with us** on [GitHub](https://github.com/BetaNYC).
+- **Support our work** by [donating](https://beta.nyc/donate).
 
-The **Freedom to Learn** is the ideal that access to knowledge, institutions, code, data, and tools, regardless of place of birth, language, gender identity, age, faith, or income, is essential to an empowered and educated public.
+## Policies
 
-The **Freedom to Innovate** is central to the advancement of communities. Innovation is vital to the development of a complex, dynamic, and thriving civil society. This City’s heritage is founded upon entrepreneurial ideas. We need laws and policies that place people before profit to protect, provide for universal economic opportunity, protect the commons, and allow for innovation.
+BetaNYC's organizational policies are tracked in [policies/](policies/):
 
-The **Freedom to Collaborate** stands for the ideal that participatory democracy is not centralized. Regardless of status and interface, we must have the ability to engage with our government, wherever and whenever. We must have the power to effect change and be a government by the people, for the people, for the 21st Century.
+- [Privacy Policy](policies/privacy-policy.md)
+- [Code of Conduct & Anti-Harassment Policy](policies/code-of-conduct.md)
+- [AI Policy](policies/ai-policy.md)
+- [Terms of Service](policies/terms-of-service.md) *(legacy, under review)*
+- [Promotion & Hosting Policy](policies/promotion-and-hosting-policy.md) *(legacy, under review)*
 
+## Also in this repository
 
-## Active Programs
+- **[BetaNYC Logos/](BetaNYC%20Logos/)** — logos and brand marks. These are trademarks of BetaNYC and are not covered by this repository's content license.
+- **[Hacknight Resources/](Hacknight%20Resources/)** — printable signage and slide templates for community events.
+- **[Open Source in Government/](Open%20Source%20in%20Government/)** — reference material on releasing and running open source in a government context.
+- **[how_to_start_a_project.md](how_to_start_a_project.md)** — a short guide to starting a new civic project.
 
-The **NYC Civic Innovation Fellowship** program that works with Borough President Offices, City Council Members, and Community Boards to improve engagement and digital inclusion.
+## Find us online
 
-NYC’s **BetaLab** a digital services agency dedicated to building open technology, hosting civic engagement events, and rethinking the current procurement process.
+- **Bluesky:** [@beta.nyc](https://bsky.app/profile/beta.nyc)
+- **LinkedIn:** [BetaNYC](https://www.linkedin.com/company/betanyc/)
+- **Facebook:** [BetaNYC](https://www.facebook.com/BetaNYC/)
+- **Instagram:** [@betanyc](https://www.instagram.com/betanyc/)
+- **Threads:** [@betanyc](https://www.threads.net/@betanyc)
+- **Mastodon:** [@betanyc@urbanists.social](https://urbanists.social/@betanyc)
+- **Reddit:** [r/PublicInterestNYC](https://www.reddit.com/r/PublicInterestNYC/)
+- **YouTube:** [BetaNYC](https://www.youtube.com/BetaNYC)
+- **Meetup:** [BetaNYC](https://www.meetup.com/betanyc/)
 
-A thriving **Brigade** of community members who provide verified, skilled community service. 
+## Leadership
 
-## Developing Programs
+Noel Hidalgo, Executive Director and Co-Founder — noel@beta.nyc
 
-A **Academy** that combines the best civic design, technology, and open data practices into a practical curriculum for passionate residents, community board members, and policy makers.
+For our current team, see [beta.nyc/our-team](https://www.beta.nyc/our-team/).
 
+## License
 
-## About 
-
-**BetaNYC Online**
-* BetaNYC Landing Page < http://beta.nyc/ >
-* Blog < http://betanyc.tumblr.com >
-* Events and Meetup Page < http://www.meetup.com/betanyc/ >
-* Twitter < http://twitter.com/betaNYC >
-* Facebook Page < http://facebook.com/betaNYC >
-
-**Community Resources**
-* Community Data Portal < https://data.beta.nyc >
-* Community Projects < http://projects.beta.nyc >
-* Community Code < http://github.com/betanyc >
-
-**Discussion Groups**
-* Discussion Forum < https://talk.beta.nyc >
-* Facebook Discussion Group < http://bit.ly/betanyc-fb >
-* Developers' Corner < https://talk.beta.nyc/c/devs-corner >
-* Working Group - City Record Online < https://talk.beta.nyc/c/working-groups/city-record-online >
-* Working Group - MTA Service Alerts < https://talk.beta.nyc/c/working-groups/mta-alerts >
-* BikeNYC and CitiBike NYC Hackers Discussion List <http://bit.ly/bikenyc-hacker>
-
-**Leadership:**
-Noel Hidalgo, Executive Director, Co-Founder; noel@beta.nyc
-
-**Community Organizers**
-* Amal Sudama
-* Ben Arancibia
-* Dirk Kelly
-* Emily Goldman
-* Farheen Malik
-* Hayley Richardson
-* Jim Shields
-* Joel Natividad
-* John Krauss
-* Kara Chesal
-* Ken Chan
-* Lauren Rennée
-* Lucio Tolentino
-* Martin Roeck
-* Matt Stempeck
-* Terrance Beckett
-* Tim McDermott
-* Yasi Razvan
-
-**Emeritus Co-founders & Organizers:**
-* Hailey Cooperrider, Co-founder
-* Phil Ashlock, Co-founders
-* Chris Whong, former organizer
-* Ariel Kennan, former organizer
-* Maximilian Heimstädt, former organizer
-
-
-**Board of Advisors**
-
-**Aaron Welch**
-Aaron founded Advomatic in 2004, and is a founder and SVP, Product at Packet. Aaron sits on the board of the Obie Award Winning Bushwick Starr Theatre. In his spare time he scuba dives, eats fire, and is a master of ceremonies for amateur talent shows.
-
-**Aileen Gemma Smith**
-CEO and Founder of Vizalytics Technology, the team behind the award winning app for local shopkeepers, Mind My Business. 
-
-**Ben Wellington**
-Ben is the creator of I Quant NY, a data science and policy blog that looks for ways to make an impact using New York City’s public data. Ben is a contributor to The New Yorker, and is a Professor at Pratt.  He is a quantitative analyst at the investment management firm Two Sigma and holds a Ph.D. in Natural Language Processing from NYU.
-
-**Daniel X. O’Neil**
-Daniel X. O’Neil is Executive Director of the Smart Chicago Collaborative, a civic organization devoted to making lives better in Chicago through technology. Prior to Smart Chicago, O’Neil was a co-founder of EveryBlock, where he was responsible for uncovering new data sets through online research and working with local governments.
-
-**Deanna Zandt**
-Deanna Zandt is a co-founder of & partner at Lux Digital, and the author of “Share This!” Her clients have included Ford Foundation, Deutsche Telekom, Planned Parenthood, and Jim Hightower. Zandt has advised the White House on digital strategy & public engagement; she has been a contributor to Forbes.com, as well as NPR’s “All Things Considered.” 
-
-**Jessie Braden**
-Jessie Braden is the co-founder and Director of Pratt Institute’s Spatial Analysis & Visualization Initiative (SAVI). SAVI uses GIS and data visualization to understand urban communities. She also developed and coordinates SAVI’s GIS & Design certificate program. Additionally, Jessie is an Adjunct Assistant Professor at Columbia University GSAPP.
-
-**Joel Natividad**
-Joel Natividad is co-founder of Ontodia - a civic tech startup born out of Open Data.  Even before winning NYCBigApps for the second time, Joel and his long-time friend and collaborator, Sami Baig, quit their jobs, convinced that Open Data - data about us, for us, and paid by us, has the biggest impact.  Not only will it improve and enable Gov 2.0, it will enable new business and business models that will maximize returns to society profitably.
-
-Joel is a civic hacker and entrepreneur who did not finish his MS in Computer Science, an active open source contributor to multiple open source projects including CKAN, charter member of the Open Semantic Data Association Steering Committee, and infrequent speaker at several Semantic, Open Data, and Civic Tech gatherings.
-
-Before Ontodia, he headed the Knowledge Engineering Practice of a small consultancy, TCG, creating knowledge systems for Fortune 100 companies in life sciences and finance.
-
-**Jonathan Askin**
-Tech law professor and policy advocate. My students and I give free legal support to socially-responsible, tech-oriented, bootstrapping startups.
-
-**Kate Albright-Hanna**
-Kate is the CEO of Advomatic, a development company that builds websites for good causes. She is also the founder of Tarbell, a political salon that brings together journalists, activists, artists and techies. 
-
-**Matt Stempeck**
-Matt is Microsoft’s Director of Civic Technology in NYC. Previously, Matt researched and designed technologies for civic impact at non-profits, startups, consultancies, and other large technology companies. He has a Master’s of Science from the MIT Media Lab, and a BA with honors from the University of Maryland College Park.
-
-**Sarah M. Kaufman**
-Sarah Kaufman, Assistant Director for Technology Programming at the NYU Rudin Center for Transportation, focuses on the use of cutting-edge information technologies in transportation communications, particularly harnessing big data and implementing open data for improved mobility and access.
-
-
-## Reference Documents
-* Code of Conduct - https://github.com/BetaNYC/What-is-BetaNYC/blob/master/Code-of-Conduct.md
-* Privacy Policy - https://github.com/BetaNYC/What-is-BetaNYC/blob/master/PrivacyPolicy.md
-* Project Promotion and Hosting Policy
-* Terms of Service - https://github.com/BetaNYC/What-is-BetaNYC/blob/master/TermsofService.md
-* How to start a project - https://github.com/BetaNYC/What-is-BetaNYC/blob/master/how_to_start_a_project.md
-* Open Source in Government 
-
-## Logos
-* [Square](https://github.com/BetaNYC/What-is-BetaNYC/blob/master/BetaNYC%20Logos/BetaNYC_short_white_on_blue.png)
-* [Rectangle](https://github.com/BetaNYC/What-is-BetaNYC/blob/master/BetaNYC%20Logos/Sticker_BetaNYC_long_transp_back.png)
+Except where noted, content in this repository is licensed under [CC BY-SA 4.0](LICENSE). BetaNYC logos and brand assets are trademarks of BetaNYC and are excluded; see [BetaNYC Logos/readme.md](BetaNYC%20Logos/readme.md).
