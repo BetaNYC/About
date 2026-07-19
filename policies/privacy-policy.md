@@ -113,4 +113,4 @@ Questions, corrections, and requests about your information go to privacy@beta.n
 
 This policy is adapted in part from [NTEN's Sample Privacy Policy](https://word.nten.org/wp-content/uploads/2021/10/Sample-Privacy-Policy.pdf) (2021), with thanks. We license it under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/): if your organization needs a privacy policy, you are welcome to copy this one, adapt it, and share what works.
 
-Last revised: July 18, 2026
+Last revised: July 19, 2026
