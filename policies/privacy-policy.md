@@ -1,5 +1,4 @@
-# BetaNYC’s Privacy Policy
-
+# BetaNYC's Privacy Policy
 
 ## Who we are
 
@@ -39,12 +38,22 @@ If you email us, whether privacy@beta.nyc or a staff member directly, we receive
 
 Our community meets on platforms we do not run. Joining one means that platform processes your data under its own policy; each platform name below links to that policy.
 
-- [Slack](https://slack.com/trust/privacy/privacy-policy) (slack.beta.nyc), which we are retiring in favor of Discord
+- [Slack](https://slack.com/trust/privacy/privacy-policy) (slack.beta.nyc), which is closing on October 16, 2026 — see "Retiring our Slack workspace" below
 - [Discord](https://discord.com/privacy), home of our BetaBuilders community
 - [Meetup](https://www.meetup.com/privacy/) (meetup.com/betanyc)
 - [GitHub](https://github.com/site/privacy) (github.com/BetaNYC), where our public repositories, issues, and contributions live
 - [Reddit](https://www.reddit.com/policies/privacy-policy) (r/PublicInterestNYC)
 - [YouTube](https://policies.google.com/privacy), our video channel, which runs under Google's privacy policy
+
+### Retiring our Slack workspace
+
+Our Slack workspace goes read-only on September 28, 2026 and closes on October 16, 2026. Three things worth saying plainly.
+
+As the operator of that workspace, we can see the name and email address of everyone who joined it. That is true of any Slack workspace and always has been. We use it to run the workspace.
+
+When the workspace closes, we are keeping a record of who was part of this community — name and email address — in CiviCRM, the database described above. We do that so our understanding of who this community is survives the platforms we use to reach it. We are not adding you to our newsletter and we will not email you because of it. If you hear from us, it is because you subscribed, gave, registered for something, or wrote to us. You can ask us to delete that record at any time; see "Your rights." Announcements about the closure will be posted in Slack itself, where you already are.
+
+We are on Slack's free plan, which shows only recent history and deletes older messages on its own schedule. Most of what was posted there over eleven years is already gone, and it went before we decided to close the workspace. We are preserving what remains of the public channels. We cannot recover direct messages, and we will not be able to retrieve them for you after the workspace closes.
 
 ## Our social media accounts
 
@@ -53,6 +62,10 @@ We post on Bluesky, LinkedIn, Facebook, Instagram, Threads, and Mastodon (@betan
 ## The tools we work in
 
 Behind the scenes, we work in Google Workspace (email, documents, and forms) and keep contact, event, and program records in Airtable. Both process that information for us under their policies: [Google's privacy policy](https://policies.google.com/privacy) and [Airtable's privacy policy](https://www.airtable.com/company/privacy).
+
+We also keep our membership, donation, and event records in CiviCRM, an open-source constituent database we operate at betanyc.civicrm.org. This is where a donation or an event registration becomes a record we can recognize you by, and it is what tells us whether your BetaBuilders membership is current.
+
+Our newsletter list in Mailchimp and our records in CiviCRM are kept separately and are not synchronized. Subscribing to the newsletter does not create a CiviCRM record, and giving or attending does not subscribe you to the newsletter.
 
 ## What we don't do
 
@@ -96,6 +109,8 @@ When we change this policy, we will post the new version on this page, update th
 
 Questions, corrections, and requests about your information go to privacy@beta.nyc. A person reads that inbox. If the answer you get does not settle the matter, you can raise it with our executive director, Noel Hidalgo, through the same address.
 
+**What changed on July 19, 2026.** We added CiviCRM, the database where we keep membership, donation, and event records. It was in use and was not named here; that was a gap on our part. We also said plainly that our Mailchimp newsletter list and our CiviCRM records are separate and not synchronized. And we added a section on retiring our Slack workspace, covering what we can see as its operator, what we are keeping when it closes and why, what has already been lost to Slack's own deletion schedule, and how to ask us to delete your record.
+
 This policy is adapted in part from [NTEN's Sample Privacy Policy](https://word.nten.org/wp-content/uploads/2021/10/Sample-Privacy-Policy.pdf) (2021), with thanks. We license it under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/): if your organization needs a privacy policy, you are welcome to copy this one, adapt it, and share what works.
 
-Last revised: July 17, 2026
+Last revised: July 18, 2026
