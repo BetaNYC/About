@@ -9,7 +9,7 @@ Open an issue in the relevant repository using the issue templates. That keeps t
 ## I have a question about using a project
 
 - Check the project's `README` first.
-- If the answer is not there, reach the BetaNYC community at «COMMUNITY-URL».
+- If the answer is not there, reach the BetaNYC community at https://www.beta.nyc/links.
 
 ## I want to report a security vulnerability
 
@@ -23,7 +23,7 @@ Contact the Safer Spaces Team at **saferspaces@beta.nyc**. See the [Code of Cond
 
 - Read `CONTRIBUTING.md` in any repository.
 - Subscribe to our newsletter, *This week in NYC's #CivicTech*, at https://beta.nyc.
-- Join the community at «COMMUNITY-URL».
+- Join the community at https://www.beta.nyc/links.
 
 ## A note on response times
 

@@ -1,7 +1,7 @@
 # Adds a "Sponsor" button to BetaNYC repositories.
 # `custom` accepts up to four URLs. BetaNYC is a fiscally sponsored project of the
 # Fund for the City of New York, so the giving link may route through FCNY.
-custom: ["«DONATE-URL»"]
+custom: ["https://www.beta.nyc/betabuilders"]
 
 # If BetaNYC ever sets up GitHub Sponsors or Open Collective, add here, e.g.:
 # github: [BetaNYC]

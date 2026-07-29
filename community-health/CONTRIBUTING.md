@@ -32,8 +32,8 @@ You do not have to write code to help.
 
 ## Licensing of your contribution
 
-BetaNYC builds in the open so the work is free for New Yorkers to reuse. Unless a repository states otherwise, contributions are made under that repository's license (**«DEFAULT-LICENSE»**). By opening a pull request, you agree that your contribution may be distributed under those terms.
+BetaNYC builds in the open so the work is free for New Yorkers to reuse. Unless a repository states otherwise, **code is licensed under the MIT License**, and **documentation, text, and data under Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)**. By opening a pull request, you agree that your contribution may be distributed under those terms.
 
 ## Questions
 
-If you are unsure where to begin, see `SUPPORT.md` or reach the community at «COMMUNITY-URL». We would rather answer a question than have you feel stuck.
+If you are unsure where to begin, see `SUPPORT.md` or reach the community at https://www.beta.nyc/links. We would rather answer a question than have you feel stuck.

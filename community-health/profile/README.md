@@ -21,11 +21,11 @@ Our work extends the People's Roadmap to a Digital New York City (2013):
 
 - **Read the [Code of Conduct](https://www.beta.nyc/code-of-conduct-anti-harassment-policy/).** Every space we run, online and physical, including every repository here, operates under it.
 - **New to a project?** Start with its README, then its `CONTRIBUTING` guide.
-- **Have a question or need help?** See `SUPPORT.md` in any repo, or reach the community at «COMMUNITY-URL».
-- **Support the work.** BetaNYC is a fiscally sponsored project of the Fund for the City of New York. You can give at «DONATE-URL».
+- **Have a question or need help?** See `SUPPORT.md` in any repo, or reach the community at https://www.beta.nyc/links.
+- **Support the work.** BetaNYC is a fiscally sponsored project of the Fund for the City of New York. You can give at https://www.beta.nyc/betabuilders.
 
 ## Find us
 
 - Website: https://beta.nyc
 - Newsletter: *This week in NYC's #CivicTech*
-- Community: «COMMUNITY-URL»
+- Community: https://www.beta.nyc/links

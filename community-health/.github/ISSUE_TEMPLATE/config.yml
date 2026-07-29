@@ -3,7 +3,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: Ask the BetaNYC community
-    url: "«COMMUNITY-URL»"
+    url: "https://www.beta.nyc/links"
     about: Questions about using a project are best asked here.
   - name: Report a security vulnerability
     url: https://github.com/BetaNYC/.github/blob/main/SECURITY.md

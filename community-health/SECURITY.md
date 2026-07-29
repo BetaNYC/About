@@ -8,7 +8,7 @@ BetaNYC runs public civic tools, and several of our repositories handle open dat
 
 Instead, report it privately:
 
-- Email **«SECURITY-CONTACT»** with a description of the issue, the repository and file involved, and steps to reproduce.
+- Email **security@beta.nyc** with a description of the issue, the repository and file involved, and steps to reproduce.
 - If you are unsure whether something qualifies, report it anyway. We would rather review a false alarm than miss a real problem.
 
 Please give us a reasonable window to respond and fix the issue before disclosing it publicly.
