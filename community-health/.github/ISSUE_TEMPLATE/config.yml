@@ -1,0 +1,13 @@
+# Set to false if you want to require a template for every new issue.
+# Left true so casual contributors are never blocked from reaching us.
+blank_issues_enabled: true
+contact_links:
+  - name: Ask the BetaNYC community
+    url: "«COMMUNITY-URL»"
+    about: Questions about using a project are best asked here.
+  - name: Report a security vulnerability
+    url: https://github.com/BetaNYC/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately, not as a public issue.
+  - name: Code of Conduct concern
+    url: https://www.beta.nyc/code-of-conduct-anti-harassment-policy/
+    about: Contact the Safer Spaces Team at saferspaces@beta.nyc.
