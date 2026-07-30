@@ -1,6 +1,6 @@
-# Code of Conduct & Anti-Harassment Policy
+# Code of Conduct & Anti-Harassment Policy (archived snapshot, 2026-07-30)
 
-> Canonical web version: <https://www.beta.nyc/code-of-conduct-anti-harassment-policy/> · Last updated 30 July 2026 · Prior versions: [archive/](archive/)
+> **Archived snapshot** of the version published 30 July 2026 at <https://www.beta.nyc/code-of-conduct-anti-harassment-policy/>. Current version: [../code-of-conduct.md](../code-of-conduct.md).
 
 Equality and community equity are two core components of building a vibrant civic hacker / civic technology / public interest technology / open data / service design community.
 
