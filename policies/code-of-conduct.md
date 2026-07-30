@@ -15,7 +15,7 @@ These documents are our community foundation and are living documents. Each year
 
 Feel free to suggest feedback at [saferspaces@beta.nyc](mailto:saferspaces@beta.nyc).
 
-These documents were last updated on 17 July 2026.
+These documents were last updated on 30 July 2026.
 
 ## Code of Conduct
 
