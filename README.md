@@ -6,7 +6,7 @@ This repository is BetaNYC's public "about" home: an overview of who we are, wha
 
 - **Website:** https://www.beta.nyc
 - **Policies:** [policies/](policies/)
-- **Get involved:** [Join our Slack](https://slack.beta.nyc) · [Events](https://www.beta.nyc/events/) · [Donate](https://beta.nyc/donate)
+- **Get involved:** [Join the community](https://www.beta.nyc/links) · [Events](https://www.beta.nyc/events/) · [Donate](https://beta.nyc/donate)
 
 ## Who we are
 
@@ -42,7 +42,7 @@ See all of our work at [beta.nyc](https://www.beta.nyc).
 
 ## Get involved
 
-- **Join the community** on [Slack](https://slack.beta.nyc).
+- **Join the community** at [beta.nyc/links](https://www.beta.nyc/links).
 - **Come to an event** on our [events calendar](https://www.beta.nyc/events/) or [Meetup](https://www.meetup.com/betanyc/).
 - **Read the newsletter** — "This week in NYC's #CivicTech." Subscribe at [beta.nyc/newsletter](https://beta.nyc/newsletter).
 - **Build with us** on [GitHub](https://github.com/BetaNYC).
