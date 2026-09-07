@@ -4,7 +4,7 @@
 
 **An AI Governance Framework** *Adapted from the AI Policy Template by ANB Advisory (Afua Bruce & Rose Afriyie), September 2024.*
 
-**Version:** 1.0 **Last reviewed:** May 29, 2026 **Review cadence:** Every six months, or as needed — whichever comes first.
+**Version:** 1.1 **Last reviewed:** September 6, 2026 **Review cadence:** Every six months, or as needed — whichever comes first.
 
 ---
 
@@ -198,6 +198,20 @@ Inspired by the NIST Framework[^8], we will support the development of privacy-e
   - We will ensure we have the proper consent from users (constituents/consumers/anyone providing data) in place if deviations from an aggregate summary standard are needed.
 
 ---
+
+### 3.11 Bots in our community spaces
+
+BetaNYC may run software agents ("bots") in the community spaces it operates, such as the BetaBuilders Discord. When we do:
+
+- The bot is named and disclosed to members in the space itself, with a plain statement of what it can and cannot do.
+- A staff member approves any action the bot takes that affects a person, including removing a message, restricting someone's participation, or removing someone from the space. The bot does not make those decisions on its own.
+- The bot's limits are enforced in software, not only by policy, and its actions are logged.
+- Membership, roles, and access decisions remain with staff and with BetaNYC's systems of record, not with the bot.
+- Messages that mention a bot are kept for staff review, so that questions and concerns raised to the bot are seen by a person. The retention period is stated in the Privacy Policy.
+- Members are told before a bot's capabilities expand.
+- Concerns about a bot's behavior go to saferspaces@beta.nyc and are handled under the Code of Conduct.
+
+*What changed on September 6, 2026 (v1.1):* this section was added when BetaNYC's first community bot, Rosie, the robot, was introduced in the BetaBuilders Discord.
 
 ## 4. AI Tool Analysis and Development
 
