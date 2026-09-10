@@ -69,6 +69,20 @@ A program we run checks that record and sets your access. A qualifying donation 
 
 You can ask us to remove the Discord ID from your record at any time. Doing so ends your access to the member areas and changes nothing else.
 
+### What is watched in BetaBuilders
+
+Discord processes everything posted in BetaBuilders under [its own privacy policy](https://discord.com/privacy). Two things in it are worth knowing. Discord scans content across its service for illegal and harmful material, and it says it does not read direct messages between adults unless something is reported. Discord may also keep messages posted in server channels for 180 days to two years after you delete them, to train its detection systems; that is Discord's retention, not ours.
+
+We have turned on Discord's server safety features. Every message in a text channel is checked before it posts against Discord's lists for slurs, sexual language, severe profanity, spam, and messages with more than eight mentions. Every image is scanned for explicit content; images only, not video. A message that trips a filter is never posted; you see a notice that only you can see, and Discord sends the blocked text, your name, and the channel to a private channel that only staff can read, so a person can review the decision. We keep those alerts while they are relevant to the work. Members with the Administrator or Manage Server permission are exempt from the filters by Discord's design.
+
+We run two bots in BetaBuilders. The first, described above, connects your Discord account to your record and sets your access; it reads no messages. The second is Rosie, the robot, which staff run to post announcements, polls, and digests, and to help staff moderate. Every action Rosie takes that affects a person is reviewed and approved by a staff member first; she never acts on a person on her own, and she cannot change roles or server settings.
+
+Rosie does not read or reply to messages on her own. She receives the text of a message only when someone mentions her by name. Those messages, the replies around them, and any reply a staff member sends through her are copied to a staff channel and kept in a private record on BetaNYC systems that only the staff who moderate the server can read, so a person can see it and answer, and so we can look back at what people asked. We keep that record indefinitely and review it every year. A daily summary with counts and links, and no message text, goes to staff. Rosie also receives, for every message in the channels she is in, the kind of information any bot on Discord receives: who posted, where, and when. She does not keep it. Neither bot reads direct messages. What Rosie can and cannot do is pinned in the server's welcome channel, and our [AI Policy](https://beta.nyc/about/ai-policy) sets out the rules we hold every bot to.
+
+Staff can read any channel they are in, as on any Discord server. We do not read direct messages and cannot.
+
+Questions about any of this go to #help-desk in the server or to any staff member. A concern about how a bot behaved goes to saferspaces@beta.nyc under the Code of Conduct.
+
 ## Our social media accounts
 
 We post on Bluesky, LinkedIn, Facebook, Instagram, Threads, and Mastodon (@betanyc@urbanists.social). We review engagement on those posts (likes, shares, replies, and follows) to understand what interests our community. We see only what each platform shows any account holder, and that activity is governed by each platform's own privacy policy.
@@ -112,6 +126,8 @@ Pages here sometimes embed videos, maps, social media posts, and similar content
 - Ordinary email: no fixed schedule; we keep correspondence while it is relevant to the work.
 - Contact, event, and program records, including a Discord account ID and a record of Slack membership: no fixed schedule; we keep them while they are relevant to the work.
 - A child's registration details: no longer than we need to run and account for the program.
+- Messages that mention our Discord bot, and the replies around them: kept indefinitely for staff review, and reviewed every year. You can ask us to delete yours; see "Your rights."
+- Alerts from Discord's safety filters, which carry the blocked text, the author, and the channel: no fixed schedule; we keep them while they are relevant to the work, like other moderation records.
 
 ## Your rights
 
@@ -133,10 +149,12 @@ When we change this policy, we will post the new version on this page, update th
 
 Questions, corrections, and requests about your information go to privacy@beta.nyc. A person reads that inbox. If the answer you get does not settle the matter, you can raise it with our executive director, Noel Hidalgo, through the same address.
 
+**What changed on September 9, 2026.** We added a section on what is watched in the BetaBuilders Discord, all of it already true and not yet written down: that Discord scans content under its own policy and keeps deleted server messages for a period it sets; that we have turned on Discord's filters, which check every message and image before it posts and send blocked text to a staff-only channel; that staff can read any channel they are in and nobody reads direct messages; and the bot our staff run there, Rosie, the robot: what she does, that a person approves every action she takes that affects someone, that messages which mention her are copied to a staff channel and kept for staff review, and that she receives who-posted-where information for messages she cannot read. We added the mention record and the filter alerts to "How long we keep things."
+
 **What changed on July 20, 2026.** We described several things that were already true and not yet written down, and one that is about to be. Already true: how members connect a Discord account to their record to get into BetaBuilders, and that a program of ours reads that record to set access; that registrations and attendance from our event platforms are copied into CiviCRM; that we keep a record when someone is asked to leave under our Code of Conduct; that we offer childcare at some events and what happens to a child's registration; that CiviCRM Spark hosts our database; that Sched runs the School of Data schedule; and the open and click tracking Mailchimp performs on the newsletter. About to be true: information will move from Mailchimp into CiviCRM, one direction only, so an unsubscribe is honored everywhere. That last change has not happened yet. We are describing it here first, which is the order we promised. We also corrected an earlier line that read as though unsubscribing from the newsletter stopped all our mail; it stops the newsletter, and other mail you asked for is a separate choice.
 
 **What changed on July 19, 2026.** We added CiviCRM, the database where we keep membership, donation, and event records. It was in use and was not named here; that was a gap on our part. We also said that our Mailchimp newsletter list and our CiviCRM records are separate (superseded July 20; see above). And we added a section on retiring our Slack workspace, covering what we can see as its operator, what we are keeping when it closes and why, what has already been lost to Slack's own deletion schedule, and how to ask us to delete your record.
 
 This policy is adapted in part from [NTEN's Sample Privacy Policy](https://word.nten.org/wp-content/uploads/2021/10/Sample-Privacy-Policy.pdf) (2021), with thanks. We license it under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/): if your organization needs a privacy policy, you are welcome to copy this one, adapt it, and share what works.
 
-Last revised: July 20, 2026
+Last revised: September 9, 2026
