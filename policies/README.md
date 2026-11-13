@@ -8,9 +8,9 @@ Where a policy is published on our website, that page is the canonical version f
 
 | Policy | File | Status | Published at |
 |---|---|---|---|
-| Privacy Policy | [privacy-policy.md](privacy-policy.md) | Active (v2.0, published 17 July 2026) | https://www.beta.nyc/privacy-policy/ |
-| Code of Conduct & Anti-Harassment Policy | [code-of-conduct.md](code-of-conduct.md) | Active (v2.2, published 24 September 2026) | https://www.beta.nyc/code-of-conduct-anti-harassment-policy/ |
-| AI Policy | [ai-policy.md](ai-policy.md) | Active (v1.0, last reviewed 29 May 2026) | https://beta.nyc/about/ai-policy |
+| Privacy Policy | [privacy-policy.md](privacy-policy.md) | Active (v2.4, last revised 9 September 2026) | https://www.beta.nyc/privacy-policy/ |
+| Code of Conduct & Anti-Harassment Policy | [code-of-conduct.md](code-of-conduct.md) | Active (Code of Conduct v2.0; Anti-Harassment Policy v2.2, last updated 24 September 2026) | https://www.beta.nyc/code-of-conduct-anti-harassment-policy/ |
+| AI Policy | [ai-policy.md](ai-policy.md) | Active (v1.1, last reviewed 6 September 2026) | https://beta.nyc/about/ai-policy |
 
 ## Retired
 
