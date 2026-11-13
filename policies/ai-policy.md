@@ -1,6 +1,6 @@
 # BetaNYC AI Policy
 
-> Canonical web version: <https://beta.nyc/about/ai-policy> · Version 1.0 · Last reviewed 29 May 2026
+> Canonical web version: <https://beta.nyc/about/ai-policy> · Version 1.1 · Last reviewed 6 September 2026
 
 **An AI Governance Framework** *Adapted from the AI Policy Template by ANB Advisory (Afua Bruce & Rose Afriyie), September 2024.*
 

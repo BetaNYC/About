@@ -7,6 +7,13 @@ This page lists the changes to this repository, BetaNYC's public copy of its org
 
 There is no separate website for this page: this file on GitHub is the page. To report a mistake in this repository or ask for a change, [open an issue on GitHub](https://github.com/BetaNYC/About/issues).
 
+## 2026-11-12: The policy index and the AI Policy's top line showed old version numbers
+
+- **Tags:** Site, Correction
+- **What changed:** The policies index listed the Privacy Policy as version 2.0 and the AI Policy as version 1.0, and the line at the top of the AI Policy said "Version 1.0 · Last reviewed 29 May 2026". The policy texts themselves were already current: the Privacy Policy is version 2.4, last revised September 9, 2026, and the AI Policy is version 1.1, last reviewed September 6, 2026, matching beta.nyc. The index now gives those versions, and lists the Code of Conduct (version 2.0) and the Anti-Harassment Policy (version 2.2) that share one file. No policy wording changed.
+- **If you used the old numbers:** If you cited a version number from the index or from the top of the AI Policy, use Privacy Policy version 2.4 and AI Policy version 1.1. The policy text you read was the current one.
+- **More detail:** [The policies index](policies/README.md)
+
 ## 2026-11-12: A What's changed page for the policy mirror
 
 - **Tags:** Site
