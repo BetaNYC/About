@@ -1,0 +1,32 @@
+# Checks WHATS-CHANGED.md on every pull request (BetaNYC's What's changed standard).
+#
+# scripts/whats_changed.py is a copy of a shared BetaNYC file: never edit it here.
+# `check --base-ref` needs the base branch's history (fetch-depth: 0), because old
+# entries are append-only. This repository has no What's changed web page (GitHub's
+# view of the file is the page), so there is no page check. Standard library only.
+name: What's changed
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  whats-changed:
+    name: What's changed
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check WHATS-CHANGED.md
+        run: python3 scripts/whats_changed.py check WHATS-CHANGED.md --base-ref "origin/${{ github.base_ref }}"
