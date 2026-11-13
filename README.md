@@ -6,6 +6,7 @@ This repository is BetaNYC's public "about" home: an overview of who we are, wha
 
 - **Website:** https://www.beta.nyc
 - **Policies:** [policies/](policies/)
+- **What's changed:** [WHATS-CHANGED.md](WHATS-CHANGED.md), every change to this repository a reader would notice, newest first
 - **Get involved:** [Join the community](https://www.beta.nyc/links) · [Events](https://www.beta.nyc/events/) · [Donate](https://beta.nyc/donate)
 
 ## Who we are
@@ -76,6 +77,12 @@ Retired policies are kept in [policies/archive/](policies/archive/) for the hist
 - **Reddit:** [r/PublicInterestNYC](https://www.reddit.com/r/PublicInterestNYC/)
 - **YouTube:** [BetaNYC](https://www.youtube.com/BetaNYC)
 - **Meetup:** [BetaNYC](https://www.meetup.com/betanyc/)
+
+## What's changed
+
+[WHATS-CHANGED.md](WHATS-CHANGED.md) records changes to this repository itself: a new version of a policy copied in, a policy retired, a change in how the files are organized. It does not retell what changed inside a policy. GitHub's view of the file is its page; there is no separate website for it.
+
+When you copy in a new policy version, add an entry at the top of WHATS-CHANGED.md, dated the day it is merged. If that day has moved on since the entry was written, the last commit before merge changes the entry's date to the merge date. Never edit or delete an old entry; add a dated `- **Update YYYY-MM-DD:**` line instead. A check runs on every pull request (`python3 scripts/whats_changed.py check WHATS-CHANGED.md`). `scripts/whats_changed.py` is a copy of a shared BetaNYC file: do not edit it here.
 
 ## Leadership
 
