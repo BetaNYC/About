@@ -18,6 +18,10 @@ We use Google Analytics, loaded through Google Tag Manager, to see how the site 
 
 If you leave a comment, we collect what you type into the comment form, plus your IP address and browser user-agent string to help detect spam, and comments may be checked by an automated spam-detection service. A hashed version of your email address, not the address itself, may be sent to Gravatar, a profile-picture service run by Automattic, to check whether you have a profile there; [Automattic's privacy policy](https://automattic.com/privacy/) covers that service. If you opt in, cookies will remember your name, email, and website so you do not have to retype them next time. Comments and their metadata stay on the site indefinitely, so we can recognize your follow-up comments and approve them instead of holding them in moderation.
 
+### Reporting a data problem
+
+Some of our tools, starting with BoardStat, have a form for telling us that a number or a record looks wrong. If you send a report, we receive what you type and the web address of the page you were on. The form does not ask for your name or email address. Your report is stored in a private GitHub repository that only BetaNYC staff can read; [GitHub's privacy policy](https://github.com/site/privacy) covers that service. To screen out spam, the text of your report, the page address, your IP address, and your browser user-agent string may be checked by Akismet, a spam-detection service run by Automattic, under [Automattic's privacy policy](https://automattic.com/privacy/). To limit how many reports one visitor can send, our site keeps a scrambled count tied to your IP address for up to an hour. Your IP address is not stored with your report.
+
 ### Subscribing to the newsletter
 
 When you sign up for our weekly newsletter, your name and email address go to Mailchimp, the service that delivers it, under [Mailchimp's privacy policy](https://mailchimp.com/legal/privacy/) (Mailchimp is an Intuit company, so that link opens Intuit's privacy statement). Every issue includes an unsubscribe link.
@@ -104,7 +108,7 @@ Our Mailchimp newsletter list and our CiviCRM records are separate systems, and 
 - We do not run ads, and no advertising network operates on our sites.
 - We do not sell or rent personal information, to anyone, for any purpose.
 - We do not track you beyond what is described on this page.
-- The only automatic decisions we make are the spam screening on comments and the Discord access check described above, which reads your record to decide whether the member areas are open to you. A person can always review either one; email privacy@beta.nyc.
+- The only automatic decisions we make are the spam screening on comments and on data problem reports, and the Discord access check described above, which reads your record to decide whether the member areas are open to you. A person can always review any of them; email privacy@beta.nyc.
 - Beyond the services named above, we do not share personal information with anyone unless the law requires it.
 
 If we ever receive a government or legal demand for personal information, we will disclose only what the law actually requires, and we will tell the affected person unless the law forbids us from doing so.
@@ -120,6 +124,7 @@ Pages here sometimes embed videos, maps, social media posts, and similar content
 ## How long we keep things
 
 - Comments and their metadata: indefinitely.
+- Data problem reports: no fixed schedule; we keep them while they are relevant to the work.
 - Donation records: as long as accounting and tax rules require.
 - The newsletter list: until you unsubscribe. Unsubscribed addresses stay on a do-not-mail record so the newsletter cannot reach you again by mistake, unless you ask us to delete you entirely (see "Your rights").
 - Newsletter open and click records: while you are subscribed.
@@ -149,6 +154,8 @@ When we change this policy, we will post the new version on this page, update th
 
 Questions, corrections, and requests about your information go to privacy@beta.nyc. A person reads that inbox. If the answer you get does not settle the matter, you can raise it with our executive director, Noel Hidalgo, through the same address.
 
+**What changed on November 18, 2026.** We added a section on reporting a data problem. BoardStat now has a form for telling us a number or a record looks wrong. The section says what a report holds, where it is stored, how it is screened for spam, and that we do not ask for your name or email address. The form opened earlier the same day, a few hours before this note.
+
 **What changed on September 9, 2026.** We added a section on what is watched in the BetaBuilders Discord, all of it already true and not yet written down: that Discord scans content under its own policy and keeps deleted server messages for a period it sets; that we have turned on Discord's filters, which check every message and image before it posts and send blocked text to a staff-only channel; that staff can read any channel they are in and nobody reads direct messages; and the bot our staff run there, Rosie, the robot: what she does, that a person approves every action she takes that affects someone, that messages which mention her are copied to a staff channel and kept for staff review, and that she receives who-posted-where information for messages she cannot read. We added the mention record and the filter alerts to "How long we keep things."
 
 **What changed on July 20, 2026.** We described several things that were already true and not yet written down, and one that is about to be. Already true: how members connect a Discord account to their record to get into BetaBuilders, and that a program of ours reads that record to set access; that registrations and attendance from our event platforms are copied into CiviCRM; that we keep a record when someone is asked to leave under our Code of Conduct; that we offer childcare at some events and what happens to a child's registration; that CiviCRM Spark hosts our database; that Sched runs the School of Data schedule; and the open and click tracking Mailchimp performs on the newsletter. About to be true: information will move from Mailchimp into CiviCRM, one direction only, so an unsubscribe is honored everywhere. That last change has not happened yet. We are describing it here first, which is the order we promised. We also corrected an earlier line that read as though unsubscribing from the newsletter stopped all our mail; it stops the newsletter, and other mail you asked for is a separate choice.
@@ -157,4 +164,4 @@ Questions, corrections, and requests about your information go to privacy@beta.n
 
 This policy is adapted in part from [NTEN's Sample Privacy Policy](https://word.nten.org/wp-content/uploads/2021/10/Sample-Privacy-Policy.pdf) (2021), with thanks. We license it under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/): if your organization needs a privacy policy, you are welcome to copy this one, adapt it, and share what works.
 
-Last revised: September 9, 2026
+Last revised: November 18, 2026
