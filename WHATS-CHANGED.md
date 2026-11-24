@@ -7,6 +7,12 @@ This page lists the changes to this repository, BetaNYC's public copy of its org
 
 There is no separate website for this page: this file on GitHub is the page. To report a mistake in this repository or ask for a change, [open an issue on GitHub](https://github.com/BetaNYC/About/issues).
 
+## 2026-11-24: Privacy Policy version 2.6
+
+- **Tags:** Site
+- **What changed:** Version 2.6 was copied in. The section "Reporting a data problem" is now "Reporting a data problem or sending feedback" and covers SLAM's feedback form, which asks for an optional name and email address. The policies index now gives version 2.6; it had still listed version 2.4 after version 2.5 was copied in on November 18, 2026.
+- **More detail:** [The Privacy Policy](policies/privacy-policy.md)
+
 ## 2026-11-12: The policy index and the AI Policy's top line showed old version numbers
 
 - **Tags:** Site, Correction
