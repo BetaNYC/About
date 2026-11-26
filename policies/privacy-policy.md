@@ -1,5 +1,3 @@
-# BetaNYC's Privacy Policy
-
 ## Who we are
 
 BetaNYC is a civic organization dedicated to improving lives in New York through civic design, technology, and data. We ask government to be open about how it works, and we hold our own websites to the same standard. This page says plainly what we collect, why, and what choices you have.
@@ -18,9 +16,17 @@ We use Google Analytics, loaded through Google Tag Manager, to see how the site 
 
 If you leave a comment, we collect what you type into the comment form, plus your IP address and browser user-agent string to help detect spam, and comments may be checked by an automated spam-detection service. A hashed version of your email address, not the address itself, may be sent to Gravatar, a profile-picture service run by Automattic, to check whether you have a profile there; [Automattic's privacy policy](https://automattic.com/privacy/) covers that service. If you opt in, cookies will remember your name, email, and website so you do not have to retype them next time. Comments and their metadata stay on the site indefinitely, so we can recognize your follow-up comments and approve them instead of holding them in moderation.
 
-### Reporting a data problem or sending feedback
+### Writing to us through our tools
 
-Some of our tools have a form for writing to us. BoardStat has one for telling us that a number or a record looks wrong, and SLAM has one for feedback on its maps. Both reach us the same way, so below we call either one a report. If you send a report, we receive what you type and the web address of the page you were on. Some forms also ask for your name and email address. Both are optional, and we use them only to follow up with you about what you sent. Your report, with your name and email if you give them, is stored in a private GitHub repository that only BetaNYC staff can read; [GitHub's privacy policy](https://github.com/site/privacy) covers that service. Your name and email are kept in their own section of the report and are never published. To screen out spam, the text of your report, the page address, your IP address, and your browser user-agent string may be checked by Akismet, a spam-detection service run by Automattic, under [Automattic's privacy policy](https://automattic.com/privacy/). Your name and email are not sent to Akismet. To limit how many reports one visitor can send, our site keeps a scrambled count tied to your IP address for up to an hour. Your IP address is not stored with your report.
+Some of our tools have a form for writing to us. You might tell us that a number or a record looks wrong, point out a mistake in a source we publish, suggest a correction or a better description, answer a review question, or send feedback. BoardStat, SLAM, and the Law Reader each have, or will soon have, a form like this. They all reach us the same way, so below we call anything you send through one of them a report.
+
+When you send a report, we receive what you write and a web address: the page you were on, or the page your report is about. Some forms also send what your report is about, such as which record, map, or picture. Some send a random code that your browser makes up and keeps, so we can tell when a new answer replaces one you sent earlier, and so one person's answers are not counted twice. The code does not say who you are. But if you give your name or email on one report, the code links your other reports from the same browser to that name. Your browser keeps the code until you clear that site's data.
+
+Some forms ask for your name and email address. Both are optional, and we use them only to follow up with you about what you sent. Some forms also have a box you can tick if you are happy for us to thank you by name. If you do not tick it, we will not name you. If you do, we have not yet decided how we would thank people, so for now nothing we publish carries anyone's name.
+
+Your report, with your name and email if you give them, is stored in a private GitHub repository that only BetaNYC staff can read; [GitHub's privacy policy](https://github.com/site/privacy) covers that service. Your name and email are kept in their own section of the report and are never published. To screen out spam, the text of your report, the page address, your IP address, and your browser user-agent string may be checked by Akismet, a spam-detection service run by Automattic, under [Automattic's privacy policy](https://automattic.com/privacy/). Your name and email are not sent to Akismet. To limit how many reports one visitor can send, our site keeps a scrambled count tied to your IP address for up to an hour. Your IP address is not stored with your report.
+
+A BetaNYC staff member reads every report and decides what to do with it. We do not use a suggestion, publish a correction, or pass a problem on to a government agency or a publisher until a person at BetaNYC has checked it. When we pass a problem on, we send what is wrong, not who told us.
 
 ### Subscribing to the newsletter
 
@@ -108,14 +114,14 @@ Our Mailchimp newsletter list and our CiviCRM records are separate systems, and 
 - We do not run ads, and no advertising network operates on our sites.
 - We do not sell or rent personal information, to anyone, for any purpose.
 - We do not track you beyond what is described on this page.
-- The only automatic decisions we make are the spam screening on comments and on data problem reports, and the Discord access check described above, which reads your record to decide whether the member areas are open to you. A person can always review any of them; email privacy@beta.nyc.
+- The only automatic decisions we make are the spam screening on comments and on reports sent through our tools, and the Discord access check described above, which reads your record to decide whether the member areas are open to you. A person can always review any of them; email privacy@beta.nyc.
 - Beyond the services named above, we do not share personal information with anyone unless the law requires it.
 
 If we ever receive a government or legal demand for personal information, we will disclose only what the law actually requires, and we will tell the affected person unless the law forbids us from doing so.
 
 ## Cookies
 
-Our sites set a small number of cookies: the cookies Google Analytics uses to tell returning visitors apart, and the optional cookies that remember your details when you comment. Embedded content from other sites may set its own, covered next. You can block or delete cookies in your browser settings.
+Our sites set a small number of cookies: the cookies Google Analytics uses to tell returning visitors apart, and the optional cookies that remember your details when you comment. Some of our tools' forms also keep a random code in your browser's storage, described in "Writing to us through our tools"; it stays until you clear that site's data. Embedded content from other sites may set its own, covered next. You can block or delete cookies in your browser settings.
 
 ## Embedded content from other sites
 
@@ -124,7 +130,7 @@ Pages here sometimes embed videos, maps, social media posts, and similar content
 ## How long we keep things
 
 - Comments and their metadata: indefinitely.
-- Data problem reports: no fixed schedule; we keep them while they are relevant to the work.
+- Reports sent through our tools: no fixed schedule; we keep them while they are relevant to the work.
 - Donation records: as long as accounting and tax rules require.
 - The newsletter list: until you unsubscribe. Unsubscribed addresses stay on a do-not-mail record so the newsletter cannot reach you again by mistake, unless you ask us to delete you entirely (see "Your rights").
 - Newsletter open and click records: while you are subscribed.
@@ -154,6 +160,8 @@ When we change this policy, we will post the new version on this page, update th
 
 Questions, corrections, and requests about your information go to privacy@beta.nyc. A person reads that inbox. If the answer you get does not settle the matter, you can raise it with our executive director, Noel Hidalgo, through the same address.
 
+**What changed on November 26, 2026.** We rewrote "Reporting a data problem or sending feedback" as "Writing to us through our tools," so one set of rules covers every tool that has a form for writing to us, including the Law Reader's new form for suggesting better picture descriptions. The section now says that some forms send a random code that your browser keeps, why, and that it links your reports together if you give your name on one; that a box lets you choose to be thanked by name, and that for now nothing we publish names anyone; that a staff member checks every report before we use it or pass a problem on; and that when we pass a problem on, we do not say who told us. The Law Reader's form is not live yet. We are describing it here first, which is the order we promised.
+
 **What changed on November 24, 2026.** We added SLAM's feedback form to the section on reporting a data problem, now called "Reporting a data problem or sending feedback." The SLAM form asks for a name and an email address, both optional; our November 18 note said our form did not ask for either. The section now says how we handle them: we use them only to follow up, store them with the report in the same private repository, never publish them, and do not send them to Akismet. The form is not live yet. We are describing it here first, which is the order we promised.
 
 **What changed on November 18, 2026.** We added a section on reporting a data problem. BoardStat now has a form for telling us a number or a record looks wrong. The section says what a report holds, where it is stored, how it is screened for spam, and that we do not ask for your name or email address. The form opened earlier the same day, a few hours before this note.
@@ -166,4 +174,4 @@ Questions, corrections, and requests about your information go to privacy@beta.n
 
 This policy is adapted in part from [NTEN's Sample Privacy Policy](https://word.nten.org/wp-content/uploads/2021/10/Sample-Privacy-Policy.pdf) (2021), with thanks. We license it under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/): if your organization needs a privacy policy, you are welcome to copy this one, adapt it, and share what works.
 
-Last revised: November 24, 2026
+Last revised: November 26, 2026
